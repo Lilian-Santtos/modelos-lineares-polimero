@@ -1,0 +1,16 @@
+Grupo 1,Grupo 2,Diferença média,p-valor ajustado,Limite inferior,Limite superior,Diferença significativa
+A / Alta,A / Baixa,-16.20,"< 0,001",-18.22,-14.18,Sim
+A / Alta,A / Meia,-7.90,"< 0,001",-9.92,-5.88,Sim
+A / Alta,B / Alta,15.80,"< 0,001",13.78,17.82,Sim
+A / Alta,B / Baixa,-11.00,"< 0,001",-13.02,-8.98,Sim
+A / Alta,B / Meia,3.30,0.0049,1.28,5.32,Sim
+A / Baixa,A / Meia,8.30,"< 0,001",6.28,10.32,Sim
+A / Baixa,B / Alta,32.00,"< 0,001",29.98,34.02,Sim
+A / Baixa,B / Baixa,5.20,"< 0,001",3.18,7.22,Sim
+A / Baixa,B / Meia,19.50,"< 0,001",17.48,21.52,Sim
+A / Meia,B / Alta,23.70,"< 0,001",21.68,25.72,Sim
+A / Meia,B / Baixa,-3.10,0.0067,-5.12,-1.08,Sim
+A / Meia,B / Meia,11.20,"< 0,001",9.18,13.22,Sim
+B / Alta,B / Baixa,-26.80,"< 0,001",-28.82,-24.78,Sim
+B / Alta,B / Meia,-12.50,"< 0,001",-14.52,-10.48,Sim
+B / Baixa,B / Meia,14.30,"< 0,001",12.28,16.32,Sim
